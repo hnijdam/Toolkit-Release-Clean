@@ -1,4 +1,4 @@
-# ICY Toolkit (Clean Release)
+# ICY Toolkit
 
 This folder contains a cleaned, shareable version of the Support ICY Toolkit with the Bridge scripts and DB menu, ready for GitHub.
 
